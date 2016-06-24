@@ -1,0 +1,218 @@
+/*要加header 才能去 h1 的margin*/
+
+body{
+	background-color:#DEDEDE;
+}
+header h1{
+	margin:0;
+}
+
+ul{
+	margin:0;
+	padding-left:0;
+}
+
+nav{
+	background:transparent;
+	height:80px;
+	background-color:#333333;
+}
+
+
+nav ul{
+	list-style:none;
+	float:right;
+}
+
+nav ul li a:hover{
+	color:#A8A9AE;
+}
+
+
+nav ul li , nav .logo{
+	display:inline-block;
+	line-height:60px;
+	margin-top:10px;
+	margin-right:20px;
+}
+
+nav ul li{
+	padding-top:10px;
+}
+
+.logo{
+	width:50%;
+	float:left;
+	background-image:url(../img/baidu-logo.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	height:60px;
+	background-size:50%;
+
+}
+
+nav ul li a {
+	line-height:60px;
+	text-decoration:none;
+	display:inline-block;
+	height:inherit;/*继承父级元素的高度*/
+	color:#fff;
+}
+
+
+section,aside{
+	background-color:white;
+	margin:20px;
+	border:black 1px solid;
+	box-shadow: 1px 1px 2px;  
+}
+
+section hgroup  h1, h2{
+	margin-left:40px;
+}
+
+.author-time{
+	margin-left:40px;
+}
+
+article{
+	margin-left:40px;
+}
+
+
+article img {
+	height:180px;
+	margin-top:10px;
+}
+
+
+section article p{
+	letter-spacing:1px;
+	line-height:25px;
+}
+
+
+article ul{
+	list-style:none;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+
+
+
+
+article h2{
+	margin-top:20px;
+	margin-left:0;
+}
+
+
+section .photo{
+	border:2px #CBCBCB solid;
+	width:200px;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-left:40px;
+	margin-bottom:40px;
+}
+
+section footer{
+	margin-left:40px;
+}
+
+
+
+section article hgroup h1{
+	margin:20px 0;
+}
+
+
+section article table{
+	width:90%;
+	margin:20px auto;
+	
+
+}
+
+section article table thead{
+	background-color:#333;
+	color:#fff;
+}
+
+
+section article table tfoot{
+	background-color:#ccc;
+	font-weight:bold;
+}
+
+
+aside{
+	width:95%;
+}
+
+aside hgroup h1{
+	margin-left:40px;
+	border-left: thick #ccc solid;
+	padding-left:20px;
+}
+
+#formstyle{
+	position:relative;
+	margin-left:250px;
+	font-weight:bold;
+	
+}
+
+.fade-text{
+	color:#ccc;
+	margin-left:212px;
+
+}
+
+
+.blank-text{
+	float:right;
+	margin-right:646px;
+}
+
+
+.private{
+	
+	margin-left:80px;
+	padding-top:10px;
+}
+
+
+#fire{
+	float:left;
+	margin-left:55px;
+}
+
+#long-text{
+	margin-left:20px;
+}
+
+
+#button1{
+	width:800px;
+	background-color:#3355D0;
+	color:#fff;
+	text-align:center;
+	margin:0 auto;
+	border-radius:20px;
+
+}
+
+#final{
+	height:40px;
+	margin-bottom:0;
+	width:100%;
+	background-color:#333;
+	color:#fff;
+	text-align:center;
+}
+
+#final p{
+	line-height:40px;
+}

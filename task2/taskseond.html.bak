@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="MFF">
+  <meta name="Keywords" content="task1 html tag ">
+  <meta name="Description" content="html">
+  <title>task1 麻将叙述史诗</title>
+  <link rel="stylesheet" type="text/css" href="css/second.css"></link>
+  <link rel="stylesheet" type="text/css "href="css/normalize.css"></link>
+  <link href="fontawesome-4.2.0_ie7/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"></link>
+ </head>
+ <body>
+ <header role="banner">
+ <!-- 1role属性的用处  2. logo添加到h1的地方，可进行点击-->
+  <h1><a href="#"><img src="img/baidu-logo.png" /></a></h1>
+  <nav role="navigation">
+	<ul>
+		<li><a href="#">序数牌</a></li>
+		<li><a href="#">字牌</a></li>
+		<li><a href="#">花牌</a></li>
+		<li><a href="#">百搭牌 </a></li>
+	</ul>
+  </nav>
+  </header>
+
+  <section>
+
+	<hgroup>
+	<h1>麻将的图案来源</h1>
+	<h2>一百零八好汉</h2>
+	<span class="author-time">文章作者  文章发表时间<span>
+	</hgroup>
+
+	<article>
+	<h3>最初麻将牌的图案选取的是《水浒传》中的一百零八好汉。</h3>
+	<p>这与一个名叫<a href="#">万秉迢</a>的人相关。相传,他非常推崇施耐庵笔下的梁山好汉,就以108这个数字作为麻将牌的基数,并隐喻108条好汉。比如,牌中九条喻为“九纹龙”史进,二条喻为“双鞭”呼延灼。</p>
+	<img  class="9till" src="..\task2\麻将哈哈哈\9.jpg"/>
+	<p>&nbsp &nbsp而麻将之所以分为万、饼、条三类,是取其本人姓名“万秉迢”的谐音。每类从一到九各有4张牌,刚好108张。至于后来增加的风牌(东、南、西、北)和箭牌(中、发、白),则是缘于这样一个说法——108条好汉是从四面八方汇聚到梁山的,所以加上东、西、南、北、中五方,并各添4张牌计20张。这些好汉有富贵贫穷各阶层,所以再加上“发”、“白”隐喻富有和贫穷,加上8张牌,整副牌共136张。随后,又加上各种<a href="#">花牌</a>,整副牌就达到了144张。</p>
+	</article>
+
+  </section>
+
+	
+
+  <section>
+	<hgroup>
+	<h1>麻将成员介绍</h1>
+	<span class="author-time">文章作者  文章发表时间<span>
+	</hgroup>
+
+  
+	<article>
+		<h2>花牌</h2>
+		<p>&nbsp &nbsp从麻将牌的牌面图案设计来考量,不难发现,其实麻将牌中的每一张牌的图案都有某种寓意,暗含了某一种中国传统文化的诉求。以“花牌”为例,人们通常采用梅、兰、竹、菊为图案。梅、兰、竹、菊占尽春、夏、秋、冬,被人称为“四君子”。“梅”表示高洁傲岸,“兰”代表幽雅空灵,“竹”象征虚心有节,“菊”则暗示冷艳清贞,表现了人们对时间秩序和生命意义的感悟,也是对某种审美人格境界的向往,成为中国人感物喻志的象征。事实上,与其说这些图案是源于设计者的聪明智慧,不如说这就是中国人特有的美学思想的自然流露和表达。</p>
+		<img  class="9till" src="..\task2\麻将哈哈哈\9.jpg"/>
+		<ul	class="season">
+		<li>春兰</li>
+		<li>夏竹</li>
+		<li>秋菊</li>
+		<li>冬梅</li>
+		</ul>
+
+	</article>
+   </section>
+
+
+   <section>
+
+		<h2>对应的图片展示</h2>
+		<div class="photo">
+		<p>春兰佳人</p>
+		<img src="麻将哈哈哈\兰.png" />
+		</div>
+
+		<div class="photo">
+		<p>夏竹英杰</p>
+		<img src="麻将哈哈哈\竹.png" />
+		</div>
+
+		<div class="photo">
+		<p >秋菊隐士</p>
+		<img src="麻将哈哈哈\菊.png" />
+		</div>
+
+		<div class="photo">
+		<p>冬梅傲骨</p>
+		<img src="麻将哈哈哈\梅.png" />
+		</div>
+		<footer>
+        <p>版权：<a href="http://www.ledu365.com/a/shehui/30315.html">http://www.ledu365.com/a/shehui/30315.html</a></p>
+		</footer>
+
+	</section>
+	
+	<section>
+		<article>
+		<h2>字牌</h2>
+		<p>&nbsp &nbsp字牌包括风牌(东、南、西、北)和箭牌(中、发、白)，从麻将牌的牌面图案设计来考量,不难发现,其实麻将牌中的每一张牌的图案都有某种寓意,暗含了某一种中国传统文化的诉求。以“花牌”为例,人们通常采用梅、兰、竹、菊为图案。缘于这样一个说法——108条好汉是从四面八方汇聚到梁山的,所以加上东、西、南、北、中五方,并各添4张牌计20张。这些好汉有富贵贫穷各阶层,所以再加上“发”、“白”隐喻富有和贫穷,加上8张牌,整副牌共136张。</p>
+		
+		<ul>
+		<li>东风</li>
+		<li>西天</li>
+		<li>北方</li>
+		<li>南国</li>
+		</ul>
+
+		<ul>
+		<li>白手</li>
+		<li>中原</li>
+		<li>发达</li>
+		</ul>
+		
+		</article>
+		<h2>对应的图片展示</h2>
+		<div class="photo">
+		<p>东风</p>
+		<img src="麻将哈哈哈\东.png" />
+		</div>
+
+		<div class="photo">
+		<p>西天</p>
+		<img src="麻将哈哈哈\西.png" />
+		</div>
+
+		<div class="photo">
+		<p>北方</p>
+		<img src="麻将哈哈哈\北.png" />
+		</div>
+
+		<div class="photo">
+		<p>南国</p>
+		<img src="麻将哈哈哈\南.png" />
+		</div>
+
+		<div class="photo">
+		<p>白手</p>
+		<img src="麻将哈哈哈\白.png" />
+		</div>
+
+		<div class="photo">
+		<p>中原</p>
+		<img src="麻将哈哈哈\中.png" />
+		</div>
+
+		<div class="photo">
+		<p>发达</p>
+		<img src="麻将哈哈哈\发.png" />
+		</div>
+
+		<footer>
+        <p>版权：<a href="http://www.ledu365.com/a/shehui/30315.html">http://www.ledu365.com/a/shehui/30315.html</a></p>
+		</footer>
+	</section>
+
+
+<section>
+
+   <article>
+	<hgroup>
+	<h1>麻将的玩法</h1>
+	<h6>文章作者 文章发表时间</h6>
+	</hgroup>
+
+	<p>麻将的玩法最为复杂有趣，到底有哪些规则呢？</p>
+	<ol>
+		<li>吃</li>
+		<li>碰</li>
+		<li>杠</li>
+		<li>听</li>
+	</ol>
+
+	<table border="4px">
+	<caption>用表格来解释以上四者</caption>
+	<thead>
+		<tr>
+		<th>名词</th>
+		<th>解释</th>
+		<th>演示</th>
+		</tr>
+	</thead>
+    
+	<tbody>
+		<tr>
+		<td>吃</td>
+		<td>上家打出牌，与下家的牌正好组成一副顺子，他就可以吃。</td>
+		<td><a href="#">操作演示</td>
+		</tr>
+
+		<tr>
+		<td>碰</td>
+		<td>其他人打出一张牌，自己手中有两张相同的牌正好组成一副刻子，他就可以碰。</td>
+		<td><a href="#">操作演示</td>
+		</tr>
+
+		<tr>
+		<td>杠</td>
+		<td><a href="http://baike.baidu.com/subview/10590/4947520.htm#7">杠以三个值为基础，分为明杠暗杠</a></td>
+		<td><a href="#">操作演示</td>
+		</tr>
+
+		<tr>
+		<td>听</td>
+		<td>当你将你手中的牌都凑成了有用的牌，只需再加上第十四张便可和牌，你就可以进入听牌的阶段。</td>
+		<td><a href="#">操作演示</td>
+		</tr>
+	</tbody>
+
+	<tfoot>
+		<tr>
+		<td>胡</td>
+		<td>掌握了四大秘籍并能熟练使用，就离胡牌不远啦</td>
+		<td><a href="#">雀神在线</a></td>
+		</tr>
+	</tfoot>
+	</table>
+   </article>
+
+   </section>
+
+   <aside>
+		<hgroup>
+			<h1>侧栏专项报导，序牌之万秉迢</h1>
+		</hgroup>
+
+		<form id="formstyle">
+			<p>请输入一个邮箱地址<input class="blank-text" value="925985950@qq.com"></input></p>
+			<p class="fade-text">邮箱地址请按要求输入</p>
+			<span>&nbsp 请输入密码<input  class="blank-text" value="......."></input><span><br/> 
+			<p class="fade-text">密码请为6-16位英文数字</p>
+			<span>请再次输入密码<input class="blank-text" value="......."></input><span>
+			
+			<p class="private">
+				性别：
+				<label for="radio-01" class="label_radio">	
+					<input type="radio" name="radio" value="男" checked="checked"  class="radio-01 onradius"/>男
+				</label>
+				<label for="radio-02" class="label_radio onradius">
+					<input type="radio" name="radio" value="女" class="radio-02"/>女
+				</label>
+			</p>
+
+			<p class="private">城市：
+				<select>
+					<option value="1">杭州</option>
+					<option value="2">义乌</option>
+					<option value="3">江山</option>
+					<option value="4">浦江</option>
+				</select>			
+			</p>
+
+			<p class="private">爱好：
+				<input type="checkbox" name="checkbox1" value="麻将" />麻将  
+				<input type="checkbox" name="checkbox2" value="阅读" />阅读
+			</p>
+
+			<p class="private" >
+				
+				<div id="fire">个人描述</div>
+				
+				<textarea id="long-text" name="des" style="width:600px;height:80px;">可以写下您对麻将的感悟哦，方便更加愉快的交到麻友！</textarea>
+			</p>
+
+			<input  id="button1" type="submit" value="确认提交"></input>
+		</form>
+
+		
+   </aside>
+
+   <footer id="final"><p>版权所有:925985950@qq.com</p></footer>
+
+ </body>
+</html>

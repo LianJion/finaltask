@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title> font-awesome</title>
+  <link href="4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"></link>
+  <link href="changeicon.css" rel="stylesheet" type="text/css"></link>
+ </head>
+ <body>
+  <span class="big"><i class="fa fa-link"></i></span>
+ </body>
+</html>
