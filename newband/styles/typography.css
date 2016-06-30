@@ -1,0 +1,63 @@
+body{
+	font-size:76%;
+	font-family: "Arial" sans-serif;
+}
+
+body *｛
+	font-size:1em;
+｝
+
+a{
+	font-weight:bold;
+	text-decoration:none;
+}
+/*这个a控制不了ul里的a,只能控制footer的a*/
+
+#navigation{
+	font-family: "Helvetica" ,"Arial" ,sans-serif;
+}
+
+#navigation a{
+	text-decoration:none;
+	font-weight:bold;
+}
+
+/*
+#content{
+	line-height:1.8em;
+}
+*/
+#content p{
+	border-color:red;
+	/*border-style:dotted;*/
+	margin:1em 0;
+}
+
+h1{
+	font-family: "Geogrgia","Times New Roman",sans-serif;
+	font:normal 2.4em ;
+	
+}
+
+h2{
+	font-family: "Geogrgia","Times New Roman",sans-serif;
+	font:normal 1.8em ;
+	margin-top: 1em;
+}
+
+h3{
+	font-family: "Geogrgia","Times New Roman",sans-serif;
+	font:normal 1.4em ;
+	margin-top: 1em;
+}
+
+
+
+/*live*/
+dt{
+	margin-right:1em;
+}
+
+dd{
+	margin-right:3em;
+}

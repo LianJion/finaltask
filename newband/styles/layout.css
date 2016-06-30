@@ -1,0 +1,141 @@
+*{
+	padding:0;
+	margin:0;
+}
+/*上面两句去除了body的内外边距*/
+body{
+	margin:1em 10%;
+	background-image:url(../images/background.gif);
+	background-attachment: fixed;
+	background-position:top left;
+	background-repeat:repeat-x;
+	max-width:80em;
+}
+
+#logo{
+	background-image:url(../images/guitarist.gif);
+	background-position:bottom right;
+	background-repeat: no-repeat;
+	border-width:.1em;
+	border-style: solid;
+	border-bottom-width: 0;
+
+}
+
+#navigation{
+	background-image:url(../images/navbar.gif);
+	background-position:bottom left;
+	background-repeat: repeat-x;
+	border-width:.1em;
+	border-style: solid;
+	border-bottom-width: 0;
+	border-top-width:0;
+	padding-left:10% ;
+}
+
+#navigation ul{
+	width:100%;
+	overflow:hidden;
+	border-left-style: .1em;
+	border-left-style: solid;
+}
+
+#navigation li{
+	display:inline; /*行内*/
+}
+
+#navigation li a{
+	display:block;
+	float:left;
+	padding:.5em 2em;
+	border-right: .1em solid;
+}
+#content{
+	border-width:.1em;
+	border-style:solid;
+	border-top-width:0;
+	padding:2em 10%;
+	line-height:1.8em;
+}
+
+footer{
+	border-width: 0.1em;
+	border-style:dotted;
+	margin:10px 0px ;
+	padding:10px;
+}
+
+#about #logo{
+	background-image:url(../images/lineup.gif);
+}
+
+#live #logo{
+	background-image:url(../images/bassist.gif);
+}
+
+#photos #logo{
+	background-image:url(../images/basshead.gif);
+}
+
+#contact #logo{
+	background-image:url(../images/drummer.gif);
+}
+
+
+/*对首页动画的设置*/
+/*对滑块预览的设置*/
+#slideshow{
+	width:150px;
+	height:150px;
+	position:relative;
+	overflow:hidden;
+}
+
+/*果然是没对img进行设置，头都大了*/
+img#preview {
+  position: absolute;
+  border-width: 0;
+  outline-width: 0;
+}
+img#frame {
+  position: absolute;
+  top:0;
+  left:0;
+  z-index:99;
+}
+
+
+/*对photo做美术馆的css*/
+
+#bandshow li{
+  display:inline;
+}
+
+
+/*对live的css*/
+
+td{
+	padding:0.5em 3em;
+	
+}
+
+dl{
+	overflow: hidden;
+}
+
+dt{
+	float:left;
+}
+
+dd{
+	float:left;
+}
+
+
+/*for contact*/
+label{
+	display:block;
+}
+fieldset{
+	border:0;
+}
